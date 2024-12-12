@@ -13,6 +13,8 @@ int swap(int a, int b){
 
     printf("\n After Swapping");
     printf("\n first value :%d,\n second value :%d",a,b);
+
+    return a,b;
 }
 int main() {
     int a,b,temp,fin;

@@ -11,13 +11,13 @@ int main(){
 
     int s = sum(a,b);
     
-    printf("sum : %d \n",s);
+   printf("sum : %d \n",s);
 
     return 0;
 }
 
 int sum(int x, int y){
-    return x + y;
+    return x+y;
 }
 /*
 #include<stdio.h>
